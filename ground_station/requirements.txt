@@ -1,0 +1,5 @@
+pyserial>=3.5
+pillow>=10.0
+numpy>=1.26
+requests>=2.31
+tensorflow>=2.16      # only needed for train.py / AI inference
